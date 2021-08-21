@@ -23,5 +23,3 @@ As this was my first time using Django, I am going to include notes for myself (
 > **`urls.py`** does what you expect based on its name, it holds all of the URL paths for the project. It is basically a table of contents.
 >
 > **`settings.py`** is also pretty straightforward about its purpose, it stores all of the settings / configurations for the project.
-
-> Lastly, we have the app folder to discuss; however, currently I wish to improve my understanding before attempting to explain it. Within the next day or two, I will be adding comments throughout the code, and updating these README notes. This project was meant to be a learning experience, so I want to get the most out of it that I can.
